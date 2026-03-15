@@ -62,4 +62,4 @@ O sistema deve exibir mensagem de e-mail inválido.
 4. Clicar em login
 
 ### Resultado esperado
-O sistema deve exibir mensagem de erro informando dados inválidos.
+O sistema deve exibir mensagem de erro informando e-mail inválido.
